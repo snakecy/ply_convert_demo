@@ -1,0 +1,9 @@
+ply
+format binary_big_endian 1.0
+comment created by MATLAB plywrite
+element vertex 1
+property char x
+property char y
+property char z
+end_header
+Rec
